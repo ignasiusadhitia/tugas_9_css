@@ -1,0 +1,25 @@
+div {
+  width: 800px;
+  height: auto;
+  top: 2.5px;
+  right: 2.5px;
+  text-align: right;
+  font-weight: bold;
+  float: right;
+  position: relative;
+  z-index: 2;
+}
+
+img {
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+}
+
+.text {
+  background: white;
+  padding: 10px;
+}
